@@ -3,8 +3,8 @@ import numpy as np
 import sys
 from CASutils import lensread_utils as lens
 
-basepath="/project/cas/islas/python_savs/L83_paper/DATA_SORT/TEMdiags/day/LENS2/"
-pathout="/project/cas/islas/python_savs/L83_paper/DATA_SORT/TEMdiags/mon/LENS2/"
+basepath="/project/cas/islas/python_savs/CAM7_vertres_paper/DATA_SORT/TEMdiags/day/LENS2/"
+pathout="/project/cas/islas/python_savs/CAM7_vertres_paper/DATA_SORT/TEMdiags/mon/LENS2/"
 
 #mems=['001','002','003']
 #mems=['001']

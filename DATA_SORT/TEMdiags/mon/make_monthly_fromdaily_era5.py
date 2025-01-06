@@ -2,8 +2,8 @@ import xarray as xr
 import numpy as np
 import sys
 
-basepath="/project/cas/islas/python_savs/L83_paper/DATA_SORT/TEMdiags/day/"
-pathout="/project/cas/islas/python_savs/L83_paper/DATA_SORT/TEMdiags/mon/"
+basepath="/project/cas/islas/python_savs/CAM7_vertres_paper/DATA_SORT/TEMdiags/day/"
+pathout="/project/cas/islas/python_savs/CAM7_vertres_paper/DATA_SORT/TEMdiags/mon/"
 
 dat = xr.open_dataset(basepath+'ERA5.nc')
 

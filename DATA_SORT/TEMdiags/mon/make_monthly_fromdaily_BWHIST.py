@@ -2,8 +2,8 @@ import xarray as xr
 import numpy as np
 import sys
 
-basepath="/project/cas/islas/python_savs/L83_paper/DATA_SORT/TEMdiags/day/"
-pathout="/project/cas/islas/python_savs/L83_paper/DATA_SORT/TEMdiags/mon/"
+basepath="/project/cas/islas/python_savs/CAM7_vertres_paper/DATA_SORT/TEMdiags/day/"
+pathout="/project/cas/islas/python_savs/CAM7_vertres_paper/DATA_SORT/TEMdiags/mon/"
 
 #mems=['001','002','003']
 #mems=['001']

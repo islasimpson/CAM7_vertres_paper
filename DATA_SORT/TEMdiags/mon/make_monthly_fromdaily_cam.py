@@ -2,8 +2,8 @@ import xarray as xr
 import numpy as np
 import sys
 
-basepath="/project/cas/islas/python_savs/L83_paper/DATA_SORT/TEMdiags/day/"
-pathout="/project/cas/islas/python_savs/L83_paper/DATA_SORT/TEMdiags/mon/"
+basepath="/project/cas/islas/python_savs/CAM7_vertres_paper/DATA_SORT/TEMdiags/day/"
+pathout="/project/cas/islas/python_savs/CAM7_vertres_paper/DATA_SORT/TEMdiags/mon/"
 
 #fnames=['dz1000_140km','dz900_140km','dz800_140km','dz700_140km','dz600_140km',
 #        'dz500_140km','dz400_140km']
