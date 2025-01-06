@@ -3,7 +3,4 @@ Repository for the scripts that are used to process the data and make the figure
 
 ### Pre-computations
 
-* Calculation of daily TEM diagnostics from daily fluxes output directly from CAM
-<head>
-./DATA_SORT/TEMdiags/mon/
-</head>
+* Calculation of daily TEM diagnostics from daily fluxes output directly from CAM.  Computed using scripts in `./DATA\_SORT/TEMdiags/mon/` 
