@@ -12,9 +12,9 @@ from CASutils import readdata_utils as read
 #expname=[ 'dz1000' ]
 expname=['dz1000','dz900','dz800','dz700','dz600','dz500','dz400']
 
-basepath="/project/cas/islas/python_savs/L83_paper/RAW_DATA/140km/ZMfluxes/"
+basepath="/project/cas/islas/python_savs/CAM7_vertres_paper/RAW_DATA/140km/ZMfluxes/"
 
-outdir="/project/cas/islas/python_savs/L83_paper/DATA_SORT/TEMdiags/day/"
+outdir="/project/cas/islas/python_savs/CAM7_vertres_paper/DATA_SORT/TEMdiags/day/"
 
 # set up constants for TEM calculations
 p0=101325.

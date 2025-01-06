@@ -10,7 +10,7 @@ from CASutils import readdata_utils as read
 
 basepath_hist="/project/mojave/cesm2/b.e21.BWHIST.f09_g17.CMIP6-historical-WACCM/atm/day_1/"
 basepath_ssp="/project/mojave/cesm2/b.e21.BWSSP370cmip6.f09_g17.CMIP6-SSP3-7.0-WACCM/atm/day_1/"
-outdir="/project/cas/islas/python_savs/L83_paper/DATA_SORT/TEMdiags/day/"
+outdir="/project/cas/islas/python_savs/CAM7_vertres_paper/DATA_SORT/TEMdiags/day/"
 
 # set up constants for TEM calculations
 p0=101325.

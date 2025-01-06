@@ -8,8 +8,8 @@ from scipy import integrate
 import sys
 from CASutils import readdata_utils as read
 
-basepath="/project/cas/islas/python_savs/L83_paper/RAW_DATA/L83_FHIST_BGC/"
-outdir="/project/cas/islas/python_savs/L83_paper/DATA_SORT/TEMdiags/day/"
+basepath="/project/cas/islas/python_savs/CAM7_vertres_paper/RAW_DATA/L83_FHIST_BGC/"
+outdir="/project/cas/islas/python_savs/CAM7_vertres_paper/DATA_SORT/TEMdiags/day/"
 
 # set up constants for TEM calculations
 p0=101325.

@@ -6,7 +6,7 @@ from CASutils import readdata_utils as read
 from CASutils import lensread_utils as lens
 
 basepath="/project/mojave/cesm2/LENS/atm/day_1/"
-outdir="/project/cas/islas/python_savs/L83_paper/DATA_SORT/TEMdiags/day/LENS2/"
+outdir="/project/cas/islas/python_savs/CAM7_vertres_paper/DATA_SORT/TEMdiags/day/LENS2/"
 
 # set up constants for TEM calculations
 p0=101325.

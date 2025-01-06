@@ -17,9 +17,9 @@ warnings.filterwarnings('ignore')
 
 expname='ERA5'
 
-basepath="/project/cas/islas/python_savs/L83_paper/RAW_DATA/ERA5/ZMfluxes/plev_from_mlev/"
+basepath="/project/cas/islas/python_savs/CAM7_vertres_paper/RAW_DATA/ERA5/ZMfluxes/plev_from_mlev/"
 
-outdir="/project/cas/islas/python_savs/L83_paper/DATA_SORT/TEMdiags/day/"
+outdir="/project/cas/islas/python_savs/CAM7_vertres_paper/DATA_SORT/TEMdiags/day/"
 
 # set up constants for TEM calculations
 p0=101325.

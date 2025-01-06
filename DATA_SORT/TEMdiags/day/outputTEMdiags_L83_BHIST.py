@@ -8,10 +8,10 @@ from scipy import integrate
 import sys
 from CASutils import readdata_utils as read
 
-basepath_hist="/project/cas/islas/python_savs/L83_paper/RAW_DATA/L83_BHIST/ZMfluxes/day/"
-basepath_ssp="/project/cas/islas/python_savs/L83_paper/RAW_DATA/L83_BSSP370/ZMfluxes/day/"
+basepath_hist="/project/cas/islas/python_savs/CAM7_vertres_paper/RAW_DATA/L83_BHIST/ZMfluxes/day/"
+basepath_ssp="/project/cas/islas/python_savs/CAM7_vertres_paper/RAW_DATA/L83_BSSP370/ZMfluxes/day/"
 
-outdir="/project/cas/islas/python_savs/L83_paper/DATA_SORT/TEMdiags/day/"
+outdir="/project/cas/islas/python_savs/CAM7_vertres_paper/DATA_SORT/TEMdiags/day/"
 
 # set up constants for TEM calculations
 p0=101325.
