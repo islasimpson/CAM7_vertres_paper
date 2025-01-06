@@ -7,3 +7,4 @@ All the data that is used in, and generated from, the scripts below can be downl
 
 * Calculation of daily TEM diagnostics from daily fluxes output directly from CAM.  Computed using scripts in `./DATA_SORT/TEMdiags/day/` and files are saved in `$DATAROOT/DATA_SORT/TEMdiags/day/`
 * Calculation of monthly averaged TEM diagnostics from the daily averaged TEM diagnostics.  Computed using scripts in `./DATA_SORT/TEMdiags/mon/` and files are saved in `$DATAROOT/DATA_SORT/TEMdiags/mon`
+* Calculation of lagged composites relative to the timing of transition of the QBO from easterly to westerly.  Calculations at `./DATA_SORT/QBOcomposites/monthly` and files are saved in `$DATAROOT/DATA_SORT/QBOcomposites/monthly` and are used in Fig 2.
