@@ -11,3 +11,4 @@ All the data that is used in, and generated from, the scripts below can be downl
 * Calculation of cospectra for the 90 days prior to the QBO Easterly to Westerly transition at `./DATA_SORT/QBOcomposites/90day_beforeW_powerspec/` and data saved at `$DATAROOT/DATA_SORT/90day_beforeW_powerspec` for use in Fig. 6
 * Calculation of dispersion curves for spectra plots at `./DATA_SORT/dispersion_curves/`
 * Calculation of wavenumber-frequency power spectra at `./DATA_SORT/WKdiags/` for use in Figs 7 and 8
+* Calculation of the power in MRG waves over the lifecycle of the QBO for Fig 9 at `./DATA_SORT/MRG_filter`
