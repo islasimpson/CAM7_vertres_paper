@@ -15,3 +15,4 @@ All the data that is used in, and generated from, the scripts below can be downl
 * Calculation of MJO filtered vertical velocity for the winter season at `./DATA_SORT/MJOfilter/output_MJOfilter_omega_ERA5.py` for Fig. 10.
 * Calculation of the climatological seasonal cycle of 5S to 5N specific humidity at `./DATA_SORT/tape_record/` for Fig 11.
 * Obtaining the zonal mean zonal wind at 10 hPa at `./DATA_SORT/u_10hpa/` and then calculating the SSW frequency at `./DATA_SORT/SSWdates/`
+* Obtaining the QBO and the MJO filtered vertical velocity variance for Fig 18 at `./DATA_SORT/MJO_OMEGA500/`
