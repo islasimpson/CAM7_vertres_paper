@@ -1,7 +1,17 @@
 # CAM7_vertres_paper
 Repository for the scripts that are used to process the data and make the figures for Simpson et al (2025) "The path toward the vertical grid options for the Community Atmosphere Model version 7: the impact of vertical resolution on the QBO and tropical waves"
 
-All the data that is used in, and generated from, the scripts below can be downloaded from ???????.  In the following `$DATAROOT` refers to the directory that contains this dataset.
+All the data that is used in, and generated from, the scripts below can be downloaded from ???to come once accepted????.  In the following `$DATAROOT` refers to the directory that contains this dataset.
+
+Many of these scripts use utilities in [CASanalysis](/project/cas/islas/python_plots/CAM7_vertres_paper/FIGURES/SUPP).  In particular
+
+* [cospec_utils](https://github.com/islasimpson/CASanalysis/blob/main/CASutils/cospec_utils.py) for calculating eddy cospectra.
+* [filter_utils](https://github.com/islasimpson/CASanalysis/blob/main/CASutils/cospec_utils.py) for MJO filtering
+* [nsq_vortgradient_utils](https://github.com/islasimpson/CASanalysis/blob/main/CASutils/nsq_vortgradient_utils.py) for calculating the barotropic vorticity gradient
+* [ssw_utils](https://github.com/islasimpson/CASanalysis/blob/main/CASutils/ssw_utils.py) for calculating SSW statistics.
+* and various other routines are used for plotting, seasonal, and spatial averaging.
+
+
 
 ### Pre-computations
 
