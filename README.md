@@ -1,7 +1,7 @@
 # CAM7_vertres_paper
 Repository for the scripts that are used to process the data and make the figures for Simpson et al (2025) "The path toward the vertical grid options for the Community Atmosphere Model version 7: the impact of vertical resolution on the QBO and tropical waves"
 
-All the data that is used in, and generated from, the scripts below can be downloaded from ???to come once accepted????.  In the following `$DATAROOT` refers to the directory that contains this dataset.
+All the data that is used in, and generated from, the scripts below can be downloaded from https://rda.ucar.edu/datasets/d651057/.  In the following `$DATAROOT` refers to the directory that contains this dataset.
 
 Many of these scripts use utilities in [CASanalysis](/project/cas/islas/python_plots/CAM7_vertres_paper/FIGURES/SUPP).  In particular
 
